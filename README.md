@@ -34,7 +34,7 @@
 </tr>
 </table>
 
-### Outras
+<h2 style="text-align: center">Outras</h2>
 <table align="center">
 
   <tr>
