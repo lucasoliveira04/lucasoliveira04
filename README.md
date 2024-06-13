@@ -36,7 +36,6 @@
 
 <h2 style="text-align: center">Outras</h2>
 <table align="center">
-
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -54,10 +53,9 @@
 </tr>
 </table>
 
- <div>
-    <img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasoliveira04&layout=compact&langs_count=7&theme=dracula"/>
+<div align="center">
+  <img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasoliveira04&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
 
 ### Contatos:
 [<img src = "https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/lucasoliveira.04_/?next=%2F)
