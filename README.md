@@ -58,8 +58,15 @@
 </div>
 
 ### Contatos:
-[<img src = "https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/lucasoliveira.04_/?next=%2F)
-<a href = "mailto:camposdlucasoli@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a id="linkedin" href="https://www.linkedin.com/in/lucas-oliveira-08334a264/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<div style="display: flex; justify-content: center; align-items: center;">
+  <a href="https://www.instagram.com/lucasoliveira.04_/?next=%2F">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="mailto:camposdlucasoli@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Gmail">
+  </a>
+  <a id="linkedin" href="https://www.linkedin.com/in/lucas-oliveira-08334a264/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
+
