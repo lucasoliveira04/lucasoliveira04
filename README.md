@@ -28,7 +28,7 @@
       <a href="#macropower-tech">
         <img src="https://techstack-generator.vercel.app/react-icon.svg"  alt="icon" width="65" height="65" />
       </a>
-        <br>ReactJS
+        <br>ReactJs
     </td>
     </td>
 </tr>
