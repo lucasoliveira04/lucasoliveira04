@@ -49,12 +49,6 @@
       </a>
         <br>Firebase
     </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"  alt="icon" width="65" height="65" />
-      </a>
-        <br>Firebase
-    </td>
     </td>
 </tr>
 </table>
