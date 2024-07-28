@@ -47,13 +47,13 @@
       <a href="#macropower-tech">
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg"  alt="icon" width="65" height="65" />
       </a>
-        <br>Firebase
+        <br>TypeScript
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/tsx-icon.svg"  alt="icon" width="65" height="65" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg"  alt="icon" width="65" height="65" />
       </a>
-        <br>TypeScript
+        <br>Firebse
     </td>
     </td>
 </tr>
