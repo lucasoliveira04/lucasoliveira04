@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Lucas Oliveira 👋
 
-👨‍💻 Desenvolvedor Back End, atualmente cursando Ciências da Computação, com previsão de término para **12/2027**.
+👨‍💻 Desenvolvedor Back End, atualmente cursando Ciências da Computação, com previsão de término para **12/2026**.
 
 ### Linguagens e Frameworks que uso atualmente:
 <table align="center">
