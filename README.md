@@ -1,3 +1,7 @@
+<p align="right">
+  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fitalo-mauricio"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Flucasoliveira04&label=Profile%20Views&labelColor=%23ffe4c8&countColor=%2386092c&style=flat" /></a>
+</p>
+
 <h1 align="center">Lucas Oliveira Campos</h1>
 <h5 align="center">Desenvolvedor de Sistemas</h5>
 
