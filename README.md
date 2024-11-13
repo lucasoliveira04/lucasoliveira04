@@ -6,7 +6,7 @@
 <h5 align="center">Desenvolvedor de Sistemas</h5>
 
 <p>
-    Sou um desenvolvedor Java Back End. 
+    Sou um desenvolvedor Back End. 
     Atualmente, estou em formação na área de Ciências da Computação, onde adquiro conhecimentos que complementam minha prática profissional. 
     Estou sempre aberto a aprender novas tecnologias e enfrentar desafios que possam me ajudar a crescer como profissional.
 </p>
