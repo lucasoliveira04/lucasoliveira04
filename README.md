@@ -21,7 +21,7 @@
       <p>
         <a href="https://www.instagram.com/lucasoliveira.04_/?next=%2F"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
         <a href="mailto:camposdlucasoli@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-        <a href="https://www.linkedin.com/in/lucas-oliveira-08334a264/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+        <a href="linkedin.com/in/lucas-oliveira-campos"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
       </p>
     </td>
   </tr>
