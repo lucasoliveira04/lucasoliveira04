@@ -4,12 +4,6 @@ I'm a back-end developer currently pursuing a degree in Computer Science, expect
 
 ---
 
-## 🛠️ Skills & Tools
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,spring,react,tailwind,python)](https://skillicons.dev)
-
----
-
 ## 📊 GitHub Stats
 
 <picture>
@@ -23,6 +17,12 @@ I'm a back-end developer currently pursuing a degree in Computer Science, expect
   />
   <img src="https://github-readme-stats.vercel.app/api?username=lucasoliveira04&show_icons=true" alt="GitHub Stats" />
 </picture>
+
+---
+
+## 🛠️ Skills & Tools
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,spring,react,tailwind,python)](https://skillicons.dev)
 
 ---
 
