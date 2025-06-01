@@ -1,6 +1,6 @@
 ## 👨‍💻 Lucas Oliveira
 
-I'm a back-end developer currently pursuing a degree in Computer Science, expected to graduate in December 2026. I have experience with **Java**, **Spring Boot**, **SQL**, and **Python**, and I've also worked on some projects using **ReactJS**.
+I'm a back-end developer currently pursuing a degree in Computer Science, expected to graduate in December 2026. I have experience developing scalable applications and working on both academic and personal projects, always focused on writing clean, maintainable code and delivering real value through technology.
 
 ---
 
