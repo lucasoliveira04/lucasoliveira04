@@ -22,7 +22,7 @@ I'm a back-end developer currently pursuing a degree in Computer Science, expect
 
 ## 🛠️ Skills & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=react,typescript,java,postgresql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,typescript,python,javascript,postgresql)](https://skillicons.dev)
 
 ---
 
