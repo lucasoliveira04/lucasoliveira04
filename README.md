@@ -12,6 +12,10 @@ I'm a back-end developer currently pursuing a degree in Computer Science, expect
     media="(prefers-color-scheme: dark)"
   />
   <source
+    srcset="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasoliveira04&hide_progress=true)"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
     srcset="https://github-readme-stats.vercel.app/api?username=lucasoliveira04&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
