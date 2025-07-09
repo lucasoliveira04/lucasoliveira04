@@ -11,9 +11,6 @@ I'm a back-end developer currently pursuing a degree in Computer Science, expect
     srcset="https://github-readme-stats.vercel.app/api?username=lucasoliveira04&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasoliveira04&layout=compact&theme=dark" />
-</a>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=lucasoliveira04&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
