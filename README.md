@@ -1,8 +1,7 @@
 ### 👋 Olá, eu sou Lucas Oliveira
 
 Atualmente estou cursando **Ciência da Computação na UNINOVE**.  
-Atuo com **Back-End Java**, e também tenho experiência com **Python, TypeScript e SQL**.  
-Gosto de explorar novas tecnologias e criar soluções escaláveis, robustas e bem estruturadas.
+Atuo com **Back-End Java** na **SMIT**, e também tenho experiência com **Python, TypeScript e SQL**.  
 
 ---
 
