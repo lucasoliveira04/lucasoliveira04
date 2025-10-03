@@ -5,13 +5,6 @@ Atuo com **Back-End Java** na **SMIT**, e também tenho experiência com **Pytho
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasoliveira04&layout=compact" width="400" height="185"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=lucasoliveira04&show_icons=true&theme=white" width="400" height="200"/>
-</p>
-
----
-
 ### 🛠️ Tecnologias e Ferramentas
 
 <p align="center">
