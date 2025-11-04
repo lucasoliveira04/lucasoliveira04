@@ -1,15 +1,17 @@
 ### 👋 Olá, eu sou Lucas Oliveira
 
 Atualmente estou cursando **Ciência da Computação na UNINOVE**.  
-Atuo com **Back-End Java** na **SMIT**, e também tenho experiência com **Python, TypeScript e SQL**.  
+Atuo com **Back-End Java** na **SMIT**, e também tenho experiência com **Python, TypeScript e SQL**.
 
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
 
 <p align="center">
+  <img src="image-7.png" width="60" style="margin: 0 5px"/> 
   <img src="image-1.png" width="60" style="margin: 0 5px"/> 
   <img src="image-2.png" width="60" style="margin: 0 5px"/>
+  <img src="image-6.png" width="60" style="margin: 0 5px"/>
   <img src="image-5.png" width="60" style="margin: 0 5px"/>
   <img src="image-3.png" width="60" style="margin: 0 5px"/>
   <img src="image-4.png" width="60" style="margin: 0 5px"/>
