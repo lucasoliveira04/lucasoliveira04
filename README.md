@@ -1,4 +1,4 @@
-### 👋 Olá, eu sou Lucas Oliveira
+### 👋 Olá, eu sou o Lucas Oliveira
 
 Atualmente estou cursando **Ciência da Computação na UNINOVE**.  
 Atuo com **Back-End Java** na **SMIT**, e também tenho experiência com **Python, TypeScript e SQL**.
