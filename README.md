@@ -1,32 +1,42 @@
-### 👋 Olá, eu sou o Lucas Oliveira
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=lucasoliveira04.lucasoliveira04&"  />
+</div>
 
-Atualmente estou cursando **Ciência da Computação na UNINOVE**.  
-Atuo com **Back-End Java** na **SMIT**, e também tenho experiência com **Python, TypeScript e SQL**.
+###
 
----
+<h1 align="left">Hi, I am Lucas Oliveira</h1>
 
-### 🛠️ Tecnologias e Ferramentas
+###
 
-<p align="center">
-  <img src="image-7.png" width="60" style="margin: 0 5px"/> 
-  <img src="image-1.png" width="60" style="margin: 0 5px"/> 
-  <img src="image-2.png" width="60" style="margin: 0 5px"/>
-  <img src="image-6.png" width="60" style="margin: 0 5px"/>
-  <img src="image-5.png" width="60" style="margin: 0 5px"/>
-  <img src="image-3.png" width="60" style="margin: 0 5px"/>
-  <img src="image-4.png" width="60" style="margin: 0 5px"/>
-</p>
+<p align="left">Currently, I'm studying Computational Science at Uninove.<br>I'm working on Back-End development at SMIT, and I also have experience with Python, TypeScript, and SQL.</p>
 
-### 📫 Contato
+###
 
-<p align="center">
-  <a href="https://linkedin.com/in/lucas-oliveira-campos" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/lucasoliveira04" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:lucasolisocialmedia@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lucasoliveira04&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasoliveira04&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
