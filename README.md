@@ -1,7 +1,3 @@
-<div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=lucasoliveira04.lucasoliveira04&"  />
-</div>
-
 ###
 
 <h1 align="left">Hi, I am Lucas Oliveira</h1>
