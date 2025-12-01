@@ -30,4 +30,16 @@
 
 ###
 
+ <h2 align="left">Contact</h2>
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/lucas-oliveira-campos/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"/>
+  </a>
+  <img width="12" />
+  <a href="mailto:lucasolisocialmedia@gmail.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="40" alt="gmail logo"/>
+  </a>
+</div>
+
 ###
