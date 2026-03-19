@@ -67,9 +67,11 @@
 
 ---
 
-<h2 align="left">🏆 Trophies</h2>
+<!-- <h2 align="left">🏆 Trophies</h2>
 
-## <img src="https://github-profile-trophy.vercel.app/?username=lucasoliveira04&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=4" width="100%" />
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=lucasoliveira04&theme=radical&no-frame=true&row=1&column=6" />
+</p> -->
 
 <h2 align="left">🐍 Snake</h2>
 
