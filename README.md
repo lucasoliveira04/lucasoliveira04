@@ -39,7 +39,7 @@
 <h2 align="left">☕ Tech Stack</h2>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,docker,postgresql,typescript,python,javascript" />
+  <img src="https://skillicons.dev/icons?i=java,spring,docker,postgresql,typescript,javascript" />
 </div>
 
 ---
