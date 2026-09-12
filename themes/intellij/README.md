@@ -1,8 +1,8 @@
 <p align="center">
-  <a href="./GALLERY.md">APPEARANCE &amp; BEHAVIOR</a> · <a href="./themes/retro/README.md">80/90</a> · <a href="./themes/futurama/README.md">Futurama</a> · <a href="./themes/windows-xp/README.md">XP</a> · <a href="./themes/minimalista/README.md">Minimal</a>
+  <a href="../../GALLERY.md">APPEARANCE &amp; BEHAVIOR</a> · <a href="../../themes/retro/README.md">80/90</a> · <a href="../../themes/futurama/README.md">Futurama</a> · <a href="../../themes/windows-xp/README.md">XP</a> · <a href="../../themes/minimalista/README.md">Minimal</a>
 </p>
 
-![Editor inspirado no IntelliJ: Lucas.java. Lucas Oliveira, Java Backend, Spring e estudos de algoritmos e memória em C.](./assets/intellij/hero.svg)
+![Editor inspirado no IntelliJ: Lucas.java. Lucas Oliveira, Java Backend, Spring e estudos de algoritmos e memória em C.](../../assets/intellij/hero.svg)
 
 ### Olá, eu sou o Lucas.
 
@@ -49,7 +49,7 @@ var interesses = List.of(
 ### Git / atividade pública
 
 <!-- LIVE:START -->
-![57 repositórios públicos próprios, 5 estrelas, 10 linguagens predominantes. Consulta em 11/09/2026.](./assets/intellij/stats.svg)
+![57 repositórios públicos próprios, 5 estrelas, 10 linguagens predominantes. Consulta em 11/09/2026.](../../assets/intellij/stats.svg)
 
 | Repositório com push recente | Linguagem | Último push |
 | :--- | :--- | :--- |
