@@ -1,5 +1,4 @@
 <p align="center">
-  <a href="https://github.com/lucasoliveira04/portfolio/blob/codex/nine-profile-readmes/github-profile-readmes/GALLERY.md">🎛️ Explorar todos os universos</a> ·
   <a href="https://www.lucasoliveira04.com/">🌐 Portfólio</a> ·
   <a href="https://www.linkedin.com/in/lucas-oliveira-campos/">🤝 LinkedIn</a>
 </p>
