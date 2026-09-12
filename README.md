@@ -6,7 +6,7 @@
 
 ![Lucas Oliveira — Java, Spring e backend. Da API ao byte. Órbitas e texto em movimento.](assets/animado/hero.svg)
 
-![Java · Spring · Kafka · AWS S3 · Docker · C / DSA](assets/animado/stack.svg)
+![Java · Kotlin · Spring · RabbitMQ · Angular · Docker · DSA](assets/animado/stack.svg)
 
 ### Um pouco sobre quem está no loop
 
