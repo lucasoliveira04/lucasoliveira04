@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="96" viewBox="0 0 1200 96" role="img" aria-labelledby="stack-title">
+  <title id="stack-title">Faixa animada de tecnologias: Java, Kotlin, Spring, RabbitMQ, Angular, Docker e DSA.</title>
+  <style>
+    .label { font: 700 22px Consolas, 'Liberation Mono', monospace; }
+    .ticker { animation: scroll 28s linear infinite; }
+    @keyframes scroll { to { transform: translateX(-1200px); } }
+    @media (prefers-reduced-motion: reduce) { .ticker { animation: none; } }
+  </style>
+  <defs>
+    <g id="stack-items">
+      <g class="label">
+        <text x="22" y="55" fill="#88ead2">JAVA</text>
+        <text x="193.429" y="55" fill="#abbcff">KOTLIN</text>
+        <text x="364.857" y="55" fill="#88ead2">SPRING</text>
+        <text x="536.286" y="55" fill="#abbcff">RABBITMQ</text>
+        <text x="707.714" y="55" fill="#88ead2">ANGULAR</text>
+        <text x="879.143" y="55" fill="#abbcff">DOCKER</text>
+        <text x="1050.571" y="55" fill="#88ead2">DSA</text>
+      </g>
+      <g fill="#566187">
+        <circle cx="152" cy="48" r="3"/>
+        <circle cx="323.429" cy="48" r="3"/>
+        <circle cx="494.857" cy="48" r="3"/>
+        <circle cx="666.286" cy="48" r="3"/>
+        <circle cx="837.714" cy="48" r="3"/>
+        <circle cx="1009.143" cy="48" r="3"/>
+        <circle cx="1180.571" cy="48" r="3"/>
+      </g>
+    </g>
+  </defs>
+  <rect width="1200" height="96" rx="12" fill="#151a31"/>
+  <g class="ticker">
+    <use href="#stack-items"/>
+    <use href="#stack-items" transform="translate(1200 0)"/>
+  </g>
+</svg>
