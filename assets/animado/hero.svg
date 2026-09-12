@@ -230,6 +230,12 @@
       }
     }
   </style>
+  <g class="motion-copy" clip-path="url(#typing)">
+    <text x="49" y="352" font-size="30" fill="#78eed0" class="mono">Sempre aprendendo.</text>
+  </g>
+  <g class="still-copy">
+    <text x="49" y="352" font-size="30" fill="#78eed0" class="mono">Sempre aprendendo.</text>
+  </g>
   <text x="49" y="423" font-size="16" fill="#8c9ecc" class="mono">SÃO PAULO / CIÊNCIA DA COMPUTAÇÃO / UNINOVE</text>
   <path d="M802 414H1110" stroke="#70e2d1" opacity=".65" class="beam" />
 </svg>
