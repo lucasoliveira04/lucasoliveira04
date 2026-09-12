@@ -1,7 +1,7 @@
-<p align="center">
+<!-- <p align="center">
   <a href="https://www.lucasoliveira04.com/">🌐 Portfólio</a> ·
   <a href="https://www.linkedin.com/in/lucas-oliveira-campos/">🤝 LinkedIn</a>
-</p>
+</p> -->
 
 ![Lucas Oliveira — Java, Spring e backend. Órbitas e texto em movimento. ](assets/animado/hero.svg)
 
