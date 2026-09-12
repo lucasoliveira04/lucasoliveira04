@@ -3,7 +3,7 @@
   <a href="https://www.linkedin.com/in/lucas-oliveira-campos/">🤝 LinkedIn</a>
 </p>
 
-![Lucas Oliveira — Java, Spring e backend. Da API ao byte. Órbitas e texto em movimento.](assets/animado/hero.svg)
+![Lucas Oliveira — Java, Spring e backend. Órbitas e texto em movimento.](assets/animado/hero.svg)
 
 ![Java · Kotlin · Spring · RabbitMQ · Angular · Docker · DSA](assets/animado/stack.svg)
 
