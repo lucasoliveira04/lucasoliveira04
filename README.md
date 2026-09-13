@@ -9,7 +9,7 @@
 
 ### Um pouco sobre quem está no loop
 
-Sou **Lucas Oliveira**, desenvolvedor Java Backend em **São Paulo**, estudante de Ciência da Computação na **UNINOVE**. Construo APIs com Java e Spring e exploro integrações, mensageria e observabilidade. Nos estudos, vou dos algoritmos em Java à memória em C.
+Sou **Lucas Oliveira**, desenvolvedor Java Backend em **São Paulo**, estudante de Ciência da Computação na **UNINOVE**.
 
 <p align="center">
   <a href="mailto:lucasolisocialmedia@gmail.com">✉️ E-mail</a> ·
