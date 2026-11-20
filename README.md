@@ -1,19 +1,7 @@
-<!-- <p align="center">
-  <a href="https://www.lucasoliveira04.com/">🌐 Portfólio</a> ·
-  <a href="https://www.linkedin.com/in/lucas-oliveira-campos/">🤝 LinkedIn</a>
-</p> -->
+I'm Lucas Oliveira, a Full Stack Developer based in São Paulo, Brazil.
 
-![Lucas Oliveira — Java, Spring e backend. Órbitas e texto em movimento. ](assets/animado/hero.svg)
+I work at NAVA, assigned to $\color{#EC0000}{\textsf{Santander}}$ as a Java Backend Developer.
 
-![Java · Kotlin · Spring · RabbitMQ · Angular · Docker · DSA](assets/animado/stack.svg)
+My stack includes Java, Kotlin, Spring, SQL, Angular, and React.
 
-### Um pouco sobre quem está no loop
-
-Sou **Lucas Oliveira**, desenvolvedor Java Backend em **São Paulo**, estudante de Ciência da Computação na **UNINOVE**.
-
-<p align="center">
-  <a href="mailto:lucasolisocialmedia@gmail.com">✉️ E-mail</a> ·
-  <a href="https://www.linkedin.com/in/lucas-oliveira-campos/">💼 LinkedIn</a> ·
-  <a href="https://github.com/lucasoliveira04">🐙 GitHub</a> ·
-  <a href="https://www.lucasoliveira04.com/">🌐 Portfólio</a>
-</p>
+Connect with me on [LinkedIn](https://www.linkedin.com/in/lucas-oliveira-campos/) or reach me at [lucasolisocialmedia@gmail.com](mailto:lucasolisocialmedia@gmail.com).
